@@ -90,14 +90,12 @@ video {
   padding: 0.2em 0; }
 
 body {
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Open Sans", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
   font-size: 1rem;
   background-color: #ffffff;
   color: #1d1d1d;
   margin: 0;
-  padding: 0; 
-  border: 1px solid #ccc;
-  letter-spacing: 5px; }
+  padding: 0; }
 
 ul, li {
   list-style: none outside none;
@@ -119,7 +117,7 @@ html {
 
 /* 0.2 Typography Initializer */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";}
+  font-family: "Open Sans", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif; }
 
 h3, h4 {
   font-weight: normal; }
@@ -337,7 +335,7 @@ p {
   border-top: 1px solid currentColor;
   border-bottom: 1px solid currentColor; }
   .btn-divided .b-title {
-    font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+    font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
     text-transform: uppercase;
     font-size: 1.5rem;
     font-weight: 300;
@@ -383,7 +381,7 @@ p {
   align-items: center;
   position: relative;
   text-transform: uppercase;
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Montserrat", "Open Sans", sans-serif;
   letter-spacing: 0.2em;
   font-size: 1rem; }
   .btn-outline-primary.white-bg:before {
@@ -427,7 +425,7 @@ p {
   align-items: center;
   position: relative;
   text-transform: uppercase;
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Montserrat", "Open Sans", sans-serif;
   letter-spacing: 0.2em;
   font-size: 1rem; }
   .btn-outline-secondary.white-bg:before {
@@ -471,7 +469,7 @@ p {
   align-items: center;
   position: relative;
   text-transform: uppercase;
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Montserrat", "Open Sans", sans-serif;
   letter-spacing: 0.2em;
   font-size: 1rem; }
   .btn-outline-white.white-bg:before {
@@ -517,7 +515,7 @@ p {
   align-items: center;
   position: relative;
   text-transform: uppercase;
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Montserrat", "Open Sans", sans-serif;
   letter-spacing: 0.2em;
   font-size: 1rem; }
   .btn-outline-black.white-bg:before {
@@ -1346,7 +1344,7 @@ textarea {
     margin-bottom: 0.5rem; }
   .form-group label.error {
     position: absolute;
-    font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+    font-family: "Open Sans", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
     color: #ffffff;
     font-size: 12px;
     top: 4px;
@@ -1544,7 +1542,7 @@ textarea {
     font-size: 0.875rem;
     border-bottom: none;
     background: #e1e1e1;
-    font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+    font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     color: #1d1d1d;
     font-weight: bold;
     border-radius: 4px 4px 0 0; }
@@ -1559,7 +1557,7 @@ textarea {
     overflow: auto;
     background: #f8f9fa;
     color: #1d1d1d;
-    font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+    font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     margin-bottom: 0; }
 
 .code-highlight-beta .code-title {
@@ -1568,7 +1566,7 @@ textarea {
   border: 2px solid #f8f9fa;
   border-bottom: none;
   background: #ffffff;
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   color: #1d1d1d;
   font-weight: bold; }
 
@@ -1579,7 +1577,7 @@ textarea {
   overflow: auto;
   background: #f8f9fa;
   color: #1d1d1d;
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";}
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 @media (min-width: 768px) {
   .article-light {
@@ -1593,11 +1591,11 @@ textarea {
 .article-light h2 {
   margin-top: 3rem;
   margin-bottom: 2rem;
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
   font-size: 3rem; }
 
 .article-light h3 {
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
   margin-top: 3rem;
   margin-bottom: 1rem;
   font-size: 2.5rem; }
@@ -1632,7 +1630,7 @@ textarea {
     letter-spacing: .75em; }
 
 .article-light li {
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Open Sans", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
   font-size: 1rem;
   margin-left: 30px;
   margin-bottom: 14px;
@@ -1669,7 +1667,7 @@ textarea {
   margin-left: -24px;
   padding-top: 0px;
   padding-bottom: 2px;
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Open Sans", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
   font-size: 1rem;
   font-style: italic;
   color: rgba(29, 29, 29, 0.6); }
@@ -2014,7 +2012,7 @@ textarea {
       bottom: 1.75rem;
       right: 1.75rem; }
   .media-service h4 {
-    font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+    font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
     font-size: 2rem;
     font-weight: bold;
     text-transform: uppercase; }
@@ -2086,7 +2084,7 @@ textarea {
   flex-wrap: nowrap; }
 
 .media-product .media-body .title, .media-product .media-body .price {
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
   font-size: 2rem;
   margin: 0;
   line-height: 1;
@@ -2456,15 +2454,16 @@ textarea {
           padding-top: 0px; } }
       .page-header-alpha .navbar-topmenu .navbar-nav-menu .nav-item {
         text-transform: uppercase;
-        font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+        font-family: "Montserrat", "Open Sans", sans-serif;
         letter-spacing: 0.2em;
         font-size: 1rem;
+        font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
         font-size: 24px; }
         @media (min-width: 768px) {
           .page-header-alpha .navbar-topmenu .navbar-nav-menu .nav-item {
             line-height: 1;
             text-transform: uppercase;
-            font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+            font-family: "Montserrat", "Open Sans", sans-serif;
             letter-spacing: 0.2em;
             font-size: 1rem;
             position: relative; } }
@@ -2514,7 +2513,7 @@ textarea {
     .page-header-alpha .navbar-mainmenu .nav-item {
       font-size: 1.5rem;
       line-height: 1;
-      font-family: "Quicksand", "Noto Sans", "微軟正黑體"; }
+      font-family: "Montserrat", "Open Sans", sans-serif; }
       @media (min-width: 768px) {
         .page-header-alpha .navbar-mainmenu .nav-item {
           line-height: 1;
@@ -2579,6 +2578,7 @@ textarea {
         line-height: 1;
         font-weight: 300;
         font-size: 1.5rem;
+        font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
         letter-spacing: 0.1em;
         text-transform: uppercase; }
         @media (min-width: 768px) {
@@ -3048,7 +3048,7 @@ textarea {
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Open Sans", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
   z-index: 2;
   background: transparent;
   display: none; }
@@ -3068,7 +3068,7 @@ textarea {
     display: block;
     font-size: 0.875rem;
     text-transform: uppercase;
-    font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+    font-family: "Montserrat", "Open Sans", sans-serif;
     letter-spacing: 0.2em;
     font-size: 1rem;
     font-size: 0.875rem;
@@ -3347,7 +3347,7 @@ textarea {
     text-transform: uppercase;
     font-weight: bold;
     transition: 0.3s ease-in-out;
-    font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 3rem; }
     .section-title .title.no-anim {
       opacity: 1;
@@ -4734,7 +4734,7 @@ textarea {
       font-size: 2rem; } }
 
 .display-title {
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Montserrat", "Open Sans", sans-serif;
   font-weight: bold;
   line-height: 1.1; }
   .display-title .light,
@@ -4746,12 +4746,15 @@ textarea {
   font-weight: 300; }
 
 .display-condensed {
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體";
+  font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif;
   text-transform: uppercase; }
 
+.display-geo {
+  font-family: "Montserrat", "Open Sans", sans-serif; }
 
 .display-subtitle {
   text-transform: uppercase;
+  font-family: "Montserrat", "Open Sans", sans-serif;
   letter-spacing: 0.2em;
   font-size: 1rem; }
 
@@ -4775,11 +4778,10 @@ strong {
   font-weight: bold; }
 
 .condensed {
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體"; }
+  font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif; }
 
 h1, h2, h3, h4 {
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); 
-  font-family: "Quicksand", "Noto Sans", "微軟正黑體"; }
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); }
 
 p {
   font-size: 1rem;
@@ -4791,7 +4793,11 @@ p {
     p {
       font-size: 1.2rem; } }
 
+.font-primary {
+  font-family: "Roboto Condensed", "Bebas Neue", "Ostrich Sans", "Oswald", sans-serif; }
 
+.font-secondary {
+  font-family: "Open Sans", "Segoe UI", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif; }
 
 /* 5.3 Responsiveness */
 .text-black {
@@ -4809,8 +4815,7 @@ p {
 .text-black {
   color: #1d1d1d !important; }
 
-/* Add your responsiveness hook 
-here  */
+/* Add your responsiveness hook here  */
 /* ipad and tablet */
 /* ipad and tablet */
 /* phone */
