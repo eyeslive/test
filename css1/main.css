@@ -1,0 +1,67 @@
+@charset "UTF-8";
+* {
+  font-family: 'Quicksand', 'Noto Sans', '微軟正黑體';
+  padding: 0px;
+  margin: 0px; }
+
+body nav {
+  padding-left: 50px; }
+  body nav a.logo {
+    height: 10px;
+    width: 150px;
+    padding-bottom: 27px; }
+
+.bottomicon {
+  margin-left: 0px; }
+
+section.wow.fadeIn.half-section {
+  padding-top: 40px; }
+  section.wow.fadeIn.half-section a.btn {
+    border-radius: 10px; }
+
+section.mission {
+  padding-top: 160px;
+  padding-bottom: 160px; }
+  section.mission h5 {
+    padding-top: 8px; }
+  section.mission h6 {
+    padding-top: 3px; }
+
+footer.footer-strip {
+  letter-spacing: 2px; }
+
+.footerlogo {
+  padding-top: 6px; }
+  .footerlogo a.logo {
+    margin-bottom: 0px; }
+
+.copyright {
+  padding-top: 11px; }
+
+section.wow.fadeIn.no-padding {
+  letter-spacing: 5px; }
+  section.wow.fadeIn.no-padding a.btn {
+    border-radius: 10px; }
+
+section#contacticon {
+  margin-bottom: 100px; }
+
+section#officeitems {
+  margin-bottom: 0px; }
+  section#officeitems h5.live {
+    line-height: 30px; }
+
+section#workitems {
+  margin-bottom: 15px; }
+  section#workitems h5.live {
+    line-height: 30px; }
+
+section#quality {
+  margin-top: 45px;
+  text-align: justify; }
+
+section#mobilework {
+  margin-top: 50px; }
+
+section#conatctimfo .imfo {
+  margin-bottom: 100px; }
